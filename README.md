@@ -1,5 +1,5 @@
 # OOD-paper_reading
-NLP意图识别文章
+NLP意图识别文章\
 Supervised and unsupervised OOD detection
 Geli Fei and Bing Liu. 2016. Breaking the closed world assumption in text classification. In Proceedings of NAACL-HLT. pages 506–514. 
 
