@@ -1,7 +1,7 @@
 # OOD-paper_reading
 NLP意图识别文章
 ## Supervised and unsupervised OOD detection
-1.Breaking the closed world assumption in text classification
+1.Breaking the closed world assumption in text classification,NAACL 2016
 
 2.Joint learning of domain classification and out-of-domain detection with dynamic class weighting for satisficing false acceptance rates
 
